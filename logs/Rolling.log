@@ -1,0 +1,431 @@
+2015-08-16 at 11:18:50 CST INFO  com.boc.utils.ParseProperty 27 loadProperties - ����D:\eclipse workspace\ZhongYinYiShang\src\main\resources\config.properties�ɹ�
+2015-08-16 at 11:18:50 CST INFO  com.boc.utils.ParseProperty 18 <init> - �Ҳ���ָ��·��D:\eclipse workspace\ZhongYinYiShang\src\main\resources\config.properties
+2015-08-16 at 11:20:18 CST INFO  com.boc.utils.ParseProperty 26 loadProperties - ����D:\eclipse workspace\ZhongYinYiShang\src\main\resources\config.properties�ɹ�
+2015-08-16 at 11:28:03 CST INFO  com.boc.utils.ParseProperty 33 loadProperties - ����D:\eclipse workspace\ZhongYinYiShang\main\resourcesconfig.propertiesʧ��
+2015-08-16 at 11:28:52 CST INFO  com.boc.utils.ParseProperty 33 loadProperties - ����D:\eclipse workspace\ZhongYinYiShang\main\resources\config.propertiesʧ��
+2015-08-16 at 11:32:57 CST INFO  com.boc.utils.ParseProperty 34 loadProperties - ����D:\eclipse workspace\ZhongYinYiShang\main\resources\config.propertiesʧ��
+2015-08-16 at 11:33:26 CST INFO  com.boc.utils.ParseProperty 31 loadProperties - ����D:\eclipse workspace\ZhongYinYiShang\src\main\resources\config.properties�ɹ�
+2015-08-16 at 11:34:30 CST INFO  com.boc.utils.ParseProperty 30 loadProperties - ����D:\eclipse workspace\ZhongYinYiShang\src\main\resources\config.properties�ɹ�
+2015-08-16 at 11:40:16 CST INFO  com.boc.utils.ParseProperty 29 loadProperties - ����D:\eclipse workspace\ZhongYinYiShang\src\main\resources\config.properties�ɹ�
+2015-08-16 at 11:40:16 CST INFO  com.boc.utils.ParseProperty 40 getValue - ����Ԫ��tt�ɹ�
+2015-08-16 at 11:41:58 CST INFO  com.boc.utils.ParseProperty 29 loadProperties - ����D:\eclipse workspace\ZhongYinYiShang\src\main\resources\config.properties�ɹ�
+2015-08-16 at 11:41:58 CST INFO  com.boc.utils.ParseProperty 43 getValue - ����Ԫ��tt�ɹ�
+2015-08-16 at 11:43:10 CST INFO  com.boc.utils.ParseProperty 29 loadProperties - ����D:\eclipse workspace\ZhongYinYiShang\src\main\resources\config.properties�ɹ�
+2015-08-16 at 11:43:47 CST INFO  com.boc.utils.ParseProperty 29 loadProperties - ����    D:\eclipse workspace\ZhongYinYiShang\src\main\resources\config.properties  �ɹ�
+2015-08-16 at 12:32:06 CST INFO  com.boc.utils.ParseProperty 29 loadProperties - ����    D:\eclipse workspace\ZhongYinYiShang\src\main\resources\config.properties�ɹ�
+2015-08-16 at 12:32:32 CST INFO  com.boc.android.CopyOfInitAndroidDriver 47 main - ����driver�ɹ�
+2015-08-16 at 12:34:44 CST INFO  com.boc.utils.ParseProperty 29 loadProperties - ����    D:\eclipse workspace\ZhongYinYiShang\src\main\resources\config.properties�ɹ�
+2015-08-16 at 12:39:15 CST INFO  com.boc.utils.ParseProperty 29 loadProperties - ����    D:\eclipse workspace\ZhongYinYiShang\src\main\resources\config.properties�ɹ�
+2015-08-16 at 12:39:30 CST INFO  com.boc.android.CopyOfInitAndroidDriver 47 main - ����driver�ɹ�
+2015-08-16 at 12:43:42 CST INFO  com.boc.utils.ParseProperty 29 loadProperties - ����    D:\eclipse workspace\ZhongYinYiShang\src\main\resources\config.properties�ɹ�
+2015-08-16 at 12:43:57 CST INFO  com.boc.android.CopyOfInitAndroidDriver 47 main - ����driver�ɹ�
+2015-08-16 at 12:48:24 CST INFO  com.boc.utils.ParseProperty 29 loadProperties - ����    D:\eclipse workspace\ZhongYinYiShang\src\main\resources\config.properties�ɹ�
+2015-08-16 at 12:48:39 CST INFO  com.boc.android.CopyOfInitAndroidDriver 47 main - ����driver�ɹ�
+2015-08-16 at 12:49:10 CST INFO  com.boc.utils.ParseProperty 29 loadProperties - ����    D:\eclipse workspace\ZhongYinYiShang\src\main\resources\config.properties�ɹ�
+2015-08-16 at 12:49:16 CST INFO  com.boc.utils.ParseProperty 29 loadProperties - ����    D:\eclipse workspace\ZhongYinYiShang\src\main\resources\config.properties�ɹ�
+2015-08-16 at 12:49:25 CST INFO  com.boc.utils.ParseProperty 29 loadProperties - ����    D:\eclipse workspace\ZhongYinYiShang\src\main\resources\config.properties�ɹ�
+2015-08-16 at 12:49:45 CST INFO  com.boc.utils.ParseProperty 29 loadProperties - ����    D:\eclipse workspace\ZhongYinYiShang\src\main\resources\config.properties�ɹ�
+2015-08-16 at 12:56:48 CST INFO  com.boc.utils.ParseProperty 29 loadProperties - ����    D:\eclipse workspace\ZhongYinYiShang\src\main\resources\config.properties�ɹ�
+2015-08-16 at 12:56:59 CST INFO  com.boc.utils.ParseProperty 29 loadProperties - ����    D:\eclipse workspace\ZhongYinYiShang\src\main\resources\config.properties�ɹ�
+2015-08-16 at 12:57:32 CST INFO  com.boc.utils.ParseProperty 29 loadProperties - ����    D:\eclipse workspace\ZhongYinYiShang\src\main\resources\config.properties�ɹ�
+2015-08-16 at 13:00:34 CST INFO  com.boc.utils.ParseProperty 29 loadProperties - ����    D:\eclipse workspace\ZhongYinYiShang\src\main\resources\config.properties�ɹ�
+2015-08-16 at 13:00:49 CST INFO  com.boc.android.InitAndroidDriver 47 createDriver - ����driver�ɹ�
+2015-08-16 at 13:00:53 CST INFO  com.boc.android.InitAndroidDriver 66 quitDriver - �˳��ɹ�
+2015-08-16 at 13:03:27 CST INFO  com.boc.utils.ParseProperty 29 loadProperties - ����    D:\eclipse workspace\ZhongYinYiShang\src\main\resources\config.properties�ɹ�
+2015-08-16 at 13:03:42 CST INFO  com.boc.android.InitAndroidDriver 47 createDriver - ����driver�ɹ�
+2015-08-16 at 13:03:47 CST INFO  com.boc.android.InitAndroidDriver 66 quitDriver - �˳��ɹ�
+2015-08-16 at 14:16:33 CST INFO  com.boc.utils.ParseProperty 29 loadProperties - 加载    D:\eclipse workspace\ZhongYinYiShang\src\main\resources\config.properties成功
+2015-08-16 at 14:40:24 CST INFO  com.boc.utils.ParseProperty 29 loadProperties - 加载    D:\eclipse workspace\ZhongYinYiShang\src\main\resources\config.properties成功
+2015-08-16 at 14:40:45 CST INFO  com.boc.android.InitAndroidDriver 47 createDriver - ����driver�ɹ�
+2015-08-16 at 14:40:51 CST INFO  com.boc.android.InitAndroidDriver 66 quitDriver - �˳��ɹ�
+2015-08-16 at 14:52:11 CST INFO  com.boc.utils.ParseProperty 29 loadProperties - 加载    D:\eclipse workspace\ZhongYinYiShang\src\main\resources\config.properties成功
+2015-08-16 at 14:52:25 CST INFO  com.boc.android.InitAndroidDriver 47 createDriver - ����driver�ɹ�
+2015-08-16 at 14:52:30 CST INFO  com.boc.android.InitAndroidDriver 66 quitDriver - �˳��ɹ�
+2015-08-16 at 15:46:50 CST INFO  com.boc.utils.ParseProperty 29 loadProperties - 加载    D:\eclipse workspace\ZhongYinYiShang\src\main\resources\config.properties成功
+2015-08-16 at 15:47:06 CST INFO  com.boc.android.AndroidDriverApi 46 <init> - appium server启动成功，url为：http://127.0.0.1:4723/wd/hub
+2015-08-16 at 15:47:06 CST INFO  com.boc.android.InitAndroidDriver 47 createDriver - 加载driver成功
+2015-08-16 at 15:47:09 CST INFO  com.boc.android.AndroidDriverApi 59 findElementById - 找到控件：确定
+2015-08-16 at 15:47:13 CST INFO  com.boc.binfengshenghuoTest.Page.WelcomePage 29 enter - 成功进入HomePage
+2015-08-16 at 15:51:47 CST INFO  com.boc.utils.ParseProperty 29 loadProperties - 加载    D:\eclipse workspace\ZhongYinYiShang\src\main\resources\config.properties成功
+2015-08-16 at 15:52:01 CST INFO  com.boc.android.AndroidDriverApi 46 <init> - appium server启动成功，url为：http://127.0.0.1:4723/wd/hub
+2015-08-16 at 15:52:01 CST INFO  com.boc.android.InitAndroidDriver 47 createDriver - 加载driver成功
+2015-08-16 at 15:52:05 CST INFO  com.boc.android.AndroidDriverApi 59 findElementById - 找到控件：确定
+2015-08-16 at 15:52:09 CST INFO  com.boc.binfengshenghuoTest.Page.WelcomePage 29 enter - 成功进入HomePage
+2015-08-16 at 15:53:13 CST INFO  com.boc.utils.ParseProperty 29 loadProperties - 加载    D:\eclipse workspace\ZhongYinYiShang\src\main\resources\config.properties成功
+2015-08-16 at 15:53:28 CST INFO  com.boc.android.AndroidDriverApi 46 <init> - appium server启动成功，url为：http://127.0.0.1:4723/wd/hub
+2015-08-16 at 15:53:28 CST INFO  com.boc.android.InitAndroidDriver 47 createDriver - 加载driver成功
+2015-08-16 at 15:55:46 CST INFO  com.boc.utils.ParseProperty 29 loadProperties - 加载    D:\eclipse workspace\ZhongYinYiShang\src\main\resources\config.properties成功
+2015-08-16 at 15:56:01 CST INFO  com.boc.android.AndroidDriverApi 46 <init> - appium server启动成功，url为：http://127.0.0.1:4723/wd/hub
+2015-08-16 at 15:56:01 CST INFO  com.boc.android.InitAndroidDriver 47 createDriver - 加载driver成功
+2015-08-16 at 15:56:04 CST INFO  com.boc.android.AndroidDriverApi 59 findElementById - 找到控件：确定
+2015-08-16 at 15:56:08 CST INFO  com.boc.binfengshenghuoTest.Page.WelcomePage 29 enter - 成功进入HomePage
+2015-08-16 at 15:57:49 CST INFO  com.boc.utils.ParseProperty 29 loadProperties - 加载    D:\eclipse workspace\ZhongYinYiShang\src\main\resources\config.properties成功
+2015-08-16 at 15:58:05 CST INFO  com.boc.android.AndroidDriverApi 46 <init> - appium server启动成功，url为：http://127.0.0.1:4723/wd/hub
+2015-08-16 at 15:58:05 CST INFO  com.boc.android.InitAndroidDriver 47 createDriver - 加载driver成功
+2015-08-16 at 15:58:08 CST INFO  com.boc.android.AndroidDriverApi 59 findElementById - 找到控件：确定
+2015-08-16 at 15:58:11 CST INFO  com.boc.binfengshenghuoTest.Page.WelcomePage 29 enter - 成功进入HomePage
+2015-08-16 at 15:59:30 CST INFO  com.boc.utils.ParseProperty 29 loadProperties - 加载    D:\eclipse workspace\ZhongYinYiShang\src\main\resources\config.properties成功
+2015-08-16 at 15:59:45 CST INFO  com.boc.android.AndroidDriverApi 46 <init> - appium server启动成功，url为：http://127.0.0.1:4723/wd/hub
+2015-08-16 at 15:59:45 CST INFO  com.boc.android.InitAndroidDriver 47 createDriver - 加载driver成功
+2015-08-16 at 15:59:48 CST INFO  com.boc.android.AndroidDriverApi 59 findElementById - 找到控件：确定
+2015-08-16 at 15:59:52 CST INFO  com.boc.binfengshenghuoTest.Page.WelcomePage 29 enter - 成功进入HomePage
+2015-08-16 at 15:59:52 CST INFO  com.boc.binfengshenghuoTest.Page.HomePage 21 <init> - 初始化HomePage元素成功
+2015-08-16 at 16:01:28 CST INFO  com.boc.utils.ParseProperty 29 loadProperties - 加载    D:\eclipse workspace\ZhongYinYiShang\src\main\resources\config.properties成功
+2015-08-16 at 16:01:43 CST INFO  com.boc.android.AndroidDriverApi 46 <init> - appium server启动成功，url为：http://127.0.0.1:4723/wd/hub
+2015-08-16 at 16:01:43 CST INFO  com.boc.android.InitAndroidDriver 47 createDriver - 加载driver成功
+2015-08-16 at 16:01:46 CST INFO  com.boc.android.AndroidDriverApi 59 findElementById - 找到控件：确定
+2015-08-16 at 16:01:50 CST INFO  com.boc.binfengshenghuoTest.Page.WelcomePage 29 enter - 成功进入HomePage
+2015-08-16 at 16:01:50 CST INFO  com.boc.binfengshenghuoTest.Page.HomePage 21 <init> - 初始化HomePage元素成功
+2015-08-16 at 16:01:50 CST INFO  com.boc.binfenshenghuoTest.HomeTest 33 homeTest - 创建HomePage对象成功
+2015-08-16 at 16:03:10 CST INFO  com.boc.utils.ParseProperty 29 loadProperties - 加载    D:\eclipse workspace\ZhongYinYiShang\src\main\resources\config.properties成功
+2015-08-16 at 16:03:25 CST INFO  com.boc.android.AndroidDriverApi 46 <init> - appium server启动成功，url为：http://127.0.0.1:4723/wd/hub
+2015-08-16 at 16:03:25 CST INFO  com.boc.android.InitAndroidDriver 47 createDriver - 加载driver成功
+2015-08-16 at 16:03:28 CST INFO  com.boc.android.AndroidDriverApi 59 findElementById - 找到控件：确定
+2015-08-16 at 16:03:32 CST INFO  com.boc.binfengshenghuoTest.Page.WelcomePage 29 enter - 成功进入HomePage
+2015-08-16 at 16:03:32 CST INFO  com.boc.binfengshenghuoTest.Page.HomePage 21 <init> - 初始化HomePage元素成功
+2015-08-16 at 16:03:32 CST INFO  com.boc.binfenshenghuoTest.HomeTest 33 homeTest - 创建HomePage对象成功
+2015-08-16 at 16:04:20 CST INFO  com.boc.utils.ParseProperty 29 loadProperties - 加载    D:\eclipse workspace\ZhongYinYiShang\src\main\resources\config.properties成功
+2015-08-16 at 16:04:34 CST INFO  com.boc.android.AndroidDriverApi 46 <init> - appium server启动成功，url为：http://127.0.0.1:4723/wd/hub
+2015-08-16 at 16:04:34 CST INFO  com.boc.android.InitAndroidDriver 47 createDriver - 加载driver成功
+2015-08-16 at 16:04:38 CST INFO  com.boc.android.AndroidDriverApi 59 findElementById - 找到控件：确定
+2015-08-16 at 16:04:42 CST INFO  com.boc.binfengshenghuoTest.Page.WelcomePage 29 enter - 成功进入HomePage
+2015-08-16 at 16:04:42 CST INFO  com.boc.binfengshenghuoTest.Page.HomePage 21 <init> - 初始化HomePage元素成功
+2015-08-16 at 16:04:42 CST INFO  com.boc.binfenshenghuoTest.HomeTest 33 homeTest - 创建HomePage对象成功
+2015-08-16 at 16:09:57 CST INFO  com.boc.utils.ParseProperty 29 loadProperties - 加载    D:\eclipse workspace\ZhongYinYiShang\src\main\resources\config.properties成功
+2015-08-16 at 16:10:12 CST INFO  com.boc.android.AndroidDriverApi 46 <init> - appium server启动成功，url为：http://127.0.0.1:4723/wd/hub
+2015-08-16 at 16:10:12 CST INFO  com.boc.android.InitAndroidDriver 47 createDriver - 加载driver成功
+2015-08-16 at 16:10:15 CST INFO  com.boc.android.AndroidDriverApi 59 findElementById - 找到控件：确定
+2015-08-16 at 16:10:19 CST INFO  com.boc.binfengshenghuoTest.Page.WelcomePage 29 enter - 成功进入HomePage
+2015-08-16 at 16:10:19 CST INFO  com.boc.binfengshenghuoTest.Page.HomePage 21 <init> - 初始化HomePage元素成功
+2015-08-16 at 16:10:19 CST INFO  com.boc.binfenshenghuoTest.HomeTest 32 homeTest - 创建HomePage对象成功
+2015-08-16 at 16:12:26 CST INFO  com.boc.utils.ParseProperty 29 loadProperties - 加载    D:\eclipse workspace\ZhongYinYiShang\src\main\resources\config.properties成功
+2015-08-16 at 16:12:45 CST INFO  com.boc.android.AndroidDriverApi 46 <init> - appium server启动成功，url为：http://127.0.0.1:4723/wd/hub
+2015-08-16 at 16:12:45 CST INFO  com.boc.android.InitAndroidDriver 47 createDriver - 加载driver成功
+2015-08-16 at 16:12:48 CST INFO  com.boc.android.AndroidDriverApi 59 findElementById - 找到控件：确定
+2015-08-16 at 16:12:52 CST INFO  com.boc.binfengshenghuoTest.Page.WelcomePage 29 enter - 成功进入HomePage
+2015-08-16 at 16:12:52 CST INFO  com.boc.binfengshenghuoTest.Page.HomePage 21 <init> - 初始化HomePage元素成功
+2015-08-16 at 16:12:52 CST INFO  com.boc.binfenshenghuoTest.HomeTest 32 homeTest - 创建HomePage对象成功
+2015-08-16 at 16:14:43 CST INFO  com.boc.utils.ParseProperty 29 loadProperties - 加载    D:\eclipse workspace\ZhongYinYiShang\src\main\resources\config.properties成功
+2015-08-16 at 16:15:01 CST INFO  com.boc.android.AndroidDriverApi 46 <init> - appium server启动成功，url为：http://127.0.0.1:4723/wd/hub
+2015-08-16 at 16:15:01 CST INFO  com.boc.android.InitAndroidDriver 47 createDriver - 加载driver成功
+2015-08-16 at 16:15:04 CST INFO  com.boc.android.AndroidDriverApi 59 findElementById - 找到控件：确定
+2015-08-16 at 16:15:08 CST INFO  com.boc.binfengshenghuoTest.Page.WelcomePage 29 enter - 成功进入HomePage
+2015-08-16 at 16:15:08 CST INFO  com.boc.binfengshenghuoTest.Page.HomePage 21 <init> - 初始化HomePage元素成功
+2015-08-16 at 16:15:08 CST INFO  com.boc.binfenshenghuoTest.HomeTest 32 homeTest - 创建HomePage对象成功
+2015-08-16 at 16:18:13 CST INFO  com.boc.utils.ParseProperty 29 loadProperties - 加载    D:\eclipse workspace\ZhongYinYiShang\src\main\resources\config.properties成功
+2015-08-16 at 16:18:31 CST INFO  com.boc.android.AndroidDriverApi 46 <init> - appium server启动成功，url为：http://127.0.0.1:4723/wd/hub
+2015-08-16 at 16:18:31 CST INFO  com.boc.android.InitAndroidDriver 47 createDriver - 加载driver成功
+2015-08-16 at 16:18:31 CST INFO  com.boc.binfengshenghuoTest.Page.WelcomePage 22 <init> - 成功进入WelcomPage界面
+2015-08-16 at 16:18:37 CST INFO  com.boc.android.AndroidDriverApi 59 findElementById - 找到控件：确定
+2015-08-16 at 16:18:41 CST INFO  com.boc.binfengshenghuoTest.Page.WelcomePage 30 enter - 成功进入HomePage
+2015-08-16 at 16:18:41 CST INFO  com.boc.binfengshenghuoTest.Page.HomePage 21 <init> - 初始化HomePage元素成功
+2015-08-16 at 16:18:41 CST INFO  com.boc.binfenshenghuoTest.HomeTest 32 homeTest - 创建HomePage对象成功
+2015-08-16 at 16:31:02 CST INFO  com.boc.utils.ParseProperty 29 loadProperties - 加载    D:\eclipse workspace\ZhongYinYiShang\src\main\resources\config.properties成功
+2015-08-16 at 16:31:20 CST INFO  com.boc.android.AndroidDriverApi 46 <init> - appium server启动成功，url为：http://127.0.0.1:4723/wd/hub
+2015-08-16 at 16:31:20 CST INFO  com.boc.android.InitAndroidDriver 47 createDriver - 加载driver成功
+2015-08-16 at 16:31:20 CST INFO  com.boc.binfengshenghuoTest.Page.WelcomePage 22 <init> - 成功进入WelcomPage界面
+2015-08-16 at 16:31:24 CST INFO  com.boc.android.AndroidDriverApi 59 findElementById - 找到控件：确定
+2015-08-16 at 16:31:28 CST INFO  com.boc.binfengshenghuoTest.Page.WelcomePage 30 enter - 准备进入HomePage
+2015-08-16 at 16:31:28 CST INFO  com.boc.binfengshenghuoTest.Page.HomePage 21 <init> - 初始化HomePage元素成功
+2015-08-16 at 16:31:28 CST INFO  com.boc.binfenshenghuoTest.HomeTest 36 homeTest - 创建HomePage对象成功
+2015-08-16 at 16:38:01 CST INFO  com.boc.utils.ParseProperty 29 loadProperties - 加载    D:\eclipse workspace\ZhongYinYiShang\src\main\resources\config.properties成功
+2015-08-16 at 16:38:18 CST INFO  com.boc.android.AndroidDriverApi 46 <init> - appium server启动成功，url为：http://127.0.0.1:4723/wd/hub
+2015-08-16 at 16:38:18 CST INFO  com.boc.android.InitAndroidDriver 47 createDriver - 加载driver成功
+2015-08-16 at 16:38:18 CST INFO  com.boc.binfengshenghuoTest.Page.WelcomePage 22 <init> - 成功进入WelcomPage界面
+2015-08-16 at 16:38:21 CST INFO  com.boc.android.AndroidDriverApi 59 findElementById - 找到控件：取消
+2015-08-16 at 16:38:25 CST INFO  com.boc.binfengshenghuoTest.Page.WelcomePage 30 enter - 准备进入HomePage
+2015-08-16 at 16:38:25 CST INFO  com.boc.binfengshenghuoTest.Page.HomePage 21 <init> - 初始化HomePage元素成功
+2015-08-16 at 16:42:54 CST INFO  com.boc.utils.ParseProperty 29 loadProperties - 加载    D:\eclipse workspace\ZhongYinYiShang\src\main\resources\config.properties成功
+2015-08-16 at 16:43:09 CST INFO  com.boc.android.AndroidDriverApi 46 <init> - appium server启动成功，url为：http://127.0.0.1:4723/wd/hub
+2015-08-16 at 16:43:09 CST INFO  com.boc.android.InitAndroidDriver 47 createDriver - 加载driver成功
+2015-08-16 at 16:43:09 CST INFO  com.boc.binfengshenghuoTest.Page.WelcomePage 22 <init> - 成功进入WelcomPage界面
+2015-08-16 at 16:43:11 CST INFO  com.boc.android.AndroidDriverApi 59 findElementById - 找到控件：取消
+2015-08-16 at 16:43:17 CST INFO  com.boc.binfengshenghuoTest.Page.WelcomePage 30 enter - 准备进入HomePage
+2015-08-16 at 16:43:17 CST INFO  com.boc.binfengshenghuoTest.Page.HomePage 21 <init> - 初始化HomePage元素成功
+2015-08-16 at 16:56:00 CST INFO  com.boc.utils.ParseProperty 29 loadProperties - 加载    D:\eclipse workspace\ZhongYinYiShang\src\main\resources\config.properties成功
+2015-08-16 at 16:56:14 CST INFO  com.boc.android.AndroidDriverApi 46 <init> - appium server启动成功，url为：http://127.0.0.1:4723/wd/hub
+2015-08-16 at 16:56:14 CST INFO  com.boc.android.InitAndroidDriver 46 createDriver - 加载driver成功
+2015-08-16 at 16:56:14 CST INFO  com.boc.binfengshenghuoTest.Page.WelcomePage 24 <init> - 成功进入WelcomPage界面
+2015-08-16 at 16:56:18 CST INFO  com.boc.android.AndroidDriverApi 59 findElementById - 找到控件：取消
+2015-08-16 at 16:56:24 CST INFO  com.boc.binfengshenghuoTest.Page.WelcomePage 42 enterHomePageQuXiao - 准备进入HomePage
+2015-08-16 at 16:56:24 CST INFO  com.boc.binfengshenghuoTest.Page.HomePage 21 <init> - 初始化HomePage元素成功
+2015-08-16 at 16:57:08 CST INFO  com.boc.utils.ParseProperty 29 loadProperties - 加载    D:\eclipse workspace\ZhongYinYiShang\src\main\resources\config.properties成功
+2015-08-16 at 16:57:23 CST INFO  com.boc.android.AndroidDriverApi 46 <init> - appium server启动成功，url为：http://127.0.0.1:4723/wd/hub
+2015-08-16 at 16:57:23 CST INFO  com.boc.android.InitAndroidDriver 46 createDriver - 加载driver成功
+2015-08-16 at 16:57:23 CST INFO  com.boc.binfengshenghuoTest.Page.WelcomePage 24 <init> - 成功进入WelcomPage界面
+2015-08-16 at 16:57:27 CST INFO  com.boc.android.AndroidDriverApi 59 findElementById - 找到控件：取消
+2015-08-16 at 16:57:31 CST INFO  com.boc.binfengshenghuoTest.Page.WelcomePage 42 enterHomePageQuXiao - 准备进入HomePage
+2015-08-16 at 16:57:31 CST INFO  com.boc.binfengshenghuoTest.Page.HomePage 21 <init> - 初始化HomePage元素成功
+2015-08-16 at 16:58:11 CST INFO  com.boc.utils.ParseProperty 29 loadProperties - 加载    D:\eclipse workspace\ZhongYinYiShang\src\main\resources\config.properties成功
+2015-08-16 at 16:58:26 CST INFO  com.boc.android.AndroidDriverApi 46 <init> - appium server启动成功，url为：http://127.0.0.1:4723/wd/hub
+2015-08-16 at 16:58:26 CST INFO  com.boc.android.InitAndroidDriver 46 createDriver - 加载driver成功
+2015-08-16 at 16:58:26 CST INFO  com.boc.binfengshenghuoTest.Page.WelcomePage 24 <init> - 成功进入WelcomPage界面
+2015-08-16 at 16:58:30 CST INFO  com.boc.android.AndroidDriverApi 59 findElementById - 找到控件：取消
+2015-08-16 at 16:58:35 CST INFO  com.boc.binfengshenghuoTest.Page.WelcomePage 42 enterHomePageQuXiao - 准备进入HomePage
+2015-08-16 at 16:58:35 CST INFO  com.boc.binfengshenghuoTest.Page.HomePage 21 <init> - 初始化HomePage元素成功
+2015-08-16 at 16:59:55 CST INFO  com.boc.utils.ParseProperty 29 loadProperties - 加载    D:\eclipse workspace\ZhongYinYiShang\src\main\resources\config.properties成功
+2015-08-16 at 17:00:10 CST INFO  com.boc.android.AndroidDriverApi 46 <init> - appium server启动成功，url为：http://127.0.0.1:4723/wd/hub
+2015-08-16 at 17:00:10 CST INFO  com.boc.android.InitAndroidDriver 46 createDriver - 加载driver成功
+2015-08-16 at 17:00:10 CST INFO  com.boc.binfengshenghuoTest.Page.WelcomePage 24 <init> - 成功进入WelcomPage界面
+2015-08-16 at 17:00:13 CST INFO  com.boc.android.AndroidDriverApi 59 findElementById - 找到控件：取消
+2015-08-16 at 17:00:17 CST INFO  com.boc.binfengshenghuoTest.Page.WelcomePage 42 enterHomePageQuXiao - 准备进入HomePage
+2015-08-16 at 17:00:17 CST INFO  com.boc.binfengshenghuoTest.Page.HomePage 21 <init> - 初始化HomePage元素成功
+2015-08-16 at 17:00:46 CST INFO  com.boc.utils.ParseProperty 29 loadProperties - 加载    D:\eclipse workspace\ZhongYinYiShang\src\main\resources\config.properties成功
+2015-08-16 at 17:01:01 CST INFO  com.boc.android.AndroidDriverApi 46 <init> - appium server启动成功，url为：http://127.0.0.1:4723/wd/hub
+2015-08-16 at 17:01:01 CST INFO  com.boc.android.InitAndroidDriver 46 createDriver - 加载driver成功
+2015-08-16 at 17:01:01 CST INFO  com.boc.binfengshenghuoTest.Page.WelcomePage 24 <init> - 成功进入WelcomPage界面
+2015-08-16 at 17:01:03 CST INFO  com.boc.android.AndroidDriverApi 59 findElementById - 找到控件：取消
+2015-08-16 at 17:01:09 CST INFO  com.boc.binfengshenghuoTest.Page.WelcomePage 42 enterHomePageQuXiao - 准备进入HomePage
+2015-08-16 at 17:01:09 CST INFO  com.boc.binfengshenghuoTest.Page.HomePage 21 <init> - 初始化HomePage元素成功
+2015-08-16 at 17:02:34 CST INFO  com.boc.utils.ParseProperty 29 loadProperties - 加载    D:\eclipse workspace\ZhongYinYiShang\src\main\resources\config.properties成功
+2015-08-16 at 17:02:48 CST INFO  com.boc.android.AndroidDriverApi 46 <init> - appium server启动成功，url为：http://127.0.0.1:4723/wd/hub
+2015-08-16 at 17:02:48 CST INFO  com.boc.android.InitAndroidDriver 46 createDriver - 加载driver成功
+2015-08-16 at 17:02:48 CST INFO  com.boc.binfengshenghuoTest.Page.WelcomePage 24 <init> - 成功进入WelcomPage界面
+2015-08-16 at 17:02:54 CST INFO  com.boc.android.AndroidDriverApi 59 findElementById - 找到控件：取消
+2015-08-16 at 17:02:57 CST INFO  com.boc.binfengshenghuoTest.Page.WelcomePage 42 enterHomePageQuXiao - 准备进入HomePage
+2015-08-16 at 17:02:57 CST INFO  com.boc.binfengshenghuoTest.Page.HomePage 23 <init> - 初始化HomePage元素成功
+2015-08-16 at 17:12:14 CST INFO  com.boc.utils.ParseProperty 29 loadProperties - 加载    D:\eclipse workspace\ZhongYinYiShang\src\main\resources\config.properties成功
+2015-08-16 at 17:12:29 CST INFO  com.boc.android.AndroidDriverApi 46 <init> - appium server启动成功，url为：http://127.0.0.1:4723/wd/hub
+2015-08-16 at 17:12:29 CST INFO  com.boc.android.InitAndroidDriver 46 createDriver - 加载driver成功
+2015-08-16 at 17:12:29 CST INFO  com.boc.binfengshenghuoTest.Page.WelcomePage 24 <init> - 成功进入WelcomPage界面
+2015-08-16 at 17:12:31 CST INFO  com.boc.android.AndroidDriverApi 59 findElementById - 找到控件：取消
+2015-08-16 at 17:12:37 CST INFO  com.boc.binfengshenghuoTest.Page.WelcomePage 42 enterHomePageQuXiao - 准备进入HomePage
+2015-08-16 at 17:12:37 CST INFO  com.boc.binfengshenghuoTest.Page.HomePage 21 <init> - 初始化HomePage元素成功
+2015-08-16 at 17:22:15 CST INFO  com.boc.utils.ParseProperty 29 loadProperties - 加载    D:\eclipse workspace\ZhongYinYiShang\src\main\resources\config.properties成功
+2015-08-16 at 17:22:30 CST INFO  com.boc.android.AndroidDriverApi 46 <init> - appium server启动成功，url为：http://127.0.0.1:4723/wd/hub
+2015-08-16 at 17:22:30 CST INFO  com.boc.android.InitAndroidDriver 46 createDriver - 加载driver成功
+2015-08-16 at 17:22:34 CST INFO  com.boc.android.AndroidDriverApi 59 findElementById - 找到控件：取消
+2015-08-16 at 17:22:38 CST INFO  com.boc.android.AndroidDriverApi 94 findElementByName - 找到控件：账单
+2015-08-16 at 17:23:44 CST INFO  com.boc.utils.ParseProperty 29 loadProperties - 加载    D:\eclipse workspace\ZhongYinYiShang\src\main\resources\config.properties成功
+2015-08-16 at 17:23:59 CST INFO  com.boc.android.AndroidDriverApi 46 <init> - appium server启动成功，url为：http://127.0.0.1:4723/wd/hub
+2015-08-16 at 17:23:59 CST INFO  com.boc.android.InitAndroidDriver 46 createDriver - 加载driver成功
+2015-08-16 at 17:23:59 CST INFO  com.boc.binfengshenghuoTest.Page.WelcomePage 24 <init> - 成功进入WelcomPage界面
+2015-08-16 at 17:24:02 CST INFO  com.boc.android.AndroidDriverApi 59 findElementById - 找到控件：取消
+2015-08-16 at 17:24:08 CST INFO  com.boc.binfengshenghuoTest.Page.WelcomePage 42 enterHomePageQuXiao - 准备进入HomePage
+2015-08-16 at 17:24:08 CST INFO  com.boc.binfengshenghuoTest.Page.HomePage 21 <init> - 初始化HomePage元素成功
+2015-08-16 at 17:26:26 CST INFO  com.boc.utils.ParseProperty 29 loadProperties - 加载    D:\eclipse workspace\ZhongYinYiShang\src\main\resources\config.properties成功
+2015-08-16 at 17:26:41 CST INFO  com.boc.android.AndroidDriverApi 46 <init> - appium server启动成功，url为：http://127.0.0.1:4723/wd/hub
+2015-08-16 at 17:26:41 CST INFO  com.boc.android.InitAndroidDriver 46 createDriver - 加载driver成功
+2015-08-16 at 17:26:41 CST INFO  com.boc.binfengshenghuoTest.Page.WelcomePage 24 <init> - 成功进入WelcomPage界面
+2015-08-16 at 17:26:45 CST INFO  com.boc.android.AndroidDriverApi 59 findElementById - 找到控件：取消
+2015-08-16 at 17:26:51 CST INFO  com.boc.binfengshenghuoTest.Page.WelcomePage 42 enterHomePageQuXiao - 准备进入HomePage
+2015-08-16 at 17:26:51 CST INFO  com.boc.binfengshenghuoTest.Page.HomePage 21 <init> - 初始化HomePage元素成功
+2015-08-16 at 17:27:30 CST INFO  com.boc.utils.ParseProperty 29 loadProperties - 加载    D:\eclipse workspace\ZhongYinYiShang\src\main\resources\config.properties成功
+2015-08-16 at 17:27:45 CST INFO  com.boc.android.AndroidDriverApi 46 <init> - appium server启动成功，url为：http://127.0.0.1:4723/wd/hub
+2015-08-16 at 17:27:45 CST INFO  com.boc.android.InitAndroidDriver 46 createDriver - 加载driver成功
+2015-08-16 at 17:27:45 CST INFO  com.boc.binfengshenghuoTest.Page.WelcomePage 24 <init> - 成功进入WelcomPage界面
+2015-08-16 at 17:27:49 CST INFO  com.boc.android.AndroidDriverApi 94 findElementByName - 找到控件：取消
+2015-08-16 at 17:27:53 CST INFO  com.boc.binfengshenghuoTest.Page.WelcomePage 42 enterHomePageQuXiao - 准备进入HomePage
+2015-08-16 at 17:27:53 CST INFO  com.boc.binfengshenghuoTest.Page.HomePage 21 <init> - 初始化HomePage元素成功
+2015-08-16 at 17:29:47 CST INFO  com.boc.utils.ParseProperty 29 loadProperties - 加载    D:\eclipse workspace\ZhongYinYiShang\src\main\resources\config.properties成功
+2015-08-16 at 17:30:02 CST INFO  com.boc.android.AndroidDriverApi 46 <init> - appium server启动成功，url为：http://127.0.0.1:4723/wd/hub
+2015-08-16 at 17:30:02 CST INFO  com.boc.android.InitAndroidDriver 46 createDriver - 加载driver成功
+2015-08-16 at 17:30:02 CST INFO  com.boc.binfengshenghuoTest.Page.WelcomePage 24 <init> - 成功进入WelcomPage界面
+2015-08-16 at 17:30:06 CST INFO  com.boc.android.AndroidDriverApi 94 findElementByName - 找到控件：取消
+2015-08-16 at 17:30:11 CST INFO  com.boc.binfengshenghuoTest.Page.WelcomePage 42 enterHomePageQuXiao - 准备进入HomePage
+2015-08-16 at 17:30:11 CST INFO  com.boc.binfengshenghuoTest.Page.HomePage 21 <init> - 初始化HomePage元素成功
+2015-08-16 at 17:37:55 CST INFO  com.boc.utils.ParseProperty 29 loadProperties - 加载    D:\eclipse workspace\ZhongYinYiShang\src\main\resources\config.properties成功
+2015-08-16 at 17:38:09 CST INFO  com.boc.android.AndroidDriverApi 46 <init> - appium server启动成功，url为：http://127.0.0.1:4723/wd/hub
+2015-08-16 at 17:38:09 CST INFO  com.boc.android.InitAndroidDriver 46 createDriver - 加载driver成功
+2015-08-16 at 17:38:09 CST INFO  com.boc.binfengshenghuoTest.Page.WelcomePage 26 <init> - 成功进入WelcomPage界面
+2015-08-16 at 17:38:12 CST INFO  com.boc.android.AndroidDriverApi 94 findElementByName - 找到控件：取消
+2015-08-16 at 17:38:19 CST INFO  com.boc.binfengshenghuoTest.Page.WelcomePage 44 enterHomePageQuXiao - 准备进入HomePage
+2015-08-16 at 17:38:19 CST INFO  com.boc.binfengshenghuoTest.Page.HomePage 21 <init> - 初始化HomePage元素成功
+2015-08-16 at 17:38:19 CST INFO  com.boc.android.AndroidDriverApi 94 findElementByName - 找到控件：账单
+2015-08-16 at 17:43:45 CST INFO  com.boc.utils.ParseProperty 29 loadProperties - 加载    D:\eclipse workspace\ZhongYinYiShang\src\main\resources\config.properties成功
+2015-08-16 at 17:44:00 CST INFO  com.boc.android.AndroidDriverApi 46 <init> - appium server启动成功，url为：http://127.0.0.1:4723/wd/hub
+2015-08-16 at 17:44:00 CST INFO  com.boc.android.InitAndroidDriver 46 createDriver - 加载driver成功
+2015-08-16 at 17:44:00 CST INFO  com.boc.binfengshenghuoTest.Page.WelcomePage 26 <init> - 成功进入WelcomPage界面
+2015-08-16 at 17:44:04 CST INFO  com.boc.android.AndroidDriverApi 94 findElementByName - 找到控件：取消
+2015-08-16 at 17:44:08 CST INFO  com.boc.binfengshenghuoTest.Page.WelcomePage 44 enterHomePageQuXiao - 准备进入HomePage
+2015-08-16 at 17:44:08 CST INFO  com.boc.binfengshenghuoTest.Page.HomePage 21 <init> - 初始化HomePage元素成功
+2015-08-16 at 17:44:08 CST INFO  com.boc.android.AndroidDriverApi 94 findElementByName - 找到控件：账单
+2015-08-16 at 17:45:57 CST INFO  com.boc.utils.ParseProperty 29 loadProperties - 加载    D:\eclipse workspace\ZhongYinYiShang\src\main\resources\config.properties成功
+2015-08-16 at 17:46:12 CST INFO  com.boc.android.AndroidDriverApi 46 <init> - appium server启动成功，url为：http://127.0.0.1:4723/wd/hub
+2015-08-16 at 17:46:12 CST INFO  com.boc.android.InitAndroidDriver 46 createDriver - 加载driver成功
+2015-08-16 at 17:46:12 CST INFO  com.boc.binfengshenghuoTest.Page.WelcomePage 26 <init> - 成功进入WelcomPage界面
+2015-08-16 at 17:46:15 CST INFO  com.boc.android.AndroidDriverApi 94 findElementByName - 找到控件：取消
+2015-08-16 at 17:46:21 CST INFO  com.boc.binfengshenghuoTest.Page.WelcomePage 44 enterHomePageQuXiao - 准备进入HomePage
+2015-08-16 at 17:46:21 CST INFO  com.boc.binfengshenghuoTest.Page.HomePage 20 <init> - 初始化HomePage元素成功
+2015-08-16 at 17:46:21 CST INFO  com.boc.android.AndroidDriverApi 94 findElementByName - 找到控件：账单
+2015-08-16 at 17:55:58 CST INFO  com.boc.utils.ParseProperty 29 loadProperties - 加载    D:\eclipse workspace\ZhongYinYiShang\src\main\resources\config.properties成功
+2015-08-16 at 17:56:12 CST INFO  com.boc.android.AndroidDriverApi 46 <init> - appium server启动成功，url为：http://127.0.0.1:4723/wd/hub
+2015-08-16 at 17:56:12 CST INFO  com.boc.android.InitAndroidDriver 46 createDriver - 加载driver成功
+2015-08-16 at 17:56:12 CST INFO  com.boc.binfengshenghuoTest.Page.WelcomePage 26 <init> - 成功进入WelcomPage界面
+2015-08-16 at 17:56:16 CST INFO  com.boc.android.AndroidDriverApi 94 findElementByName - 找到控件：取消
+2015-08-16 at 17:56:20 CST INFO  com.boc.binfengshenghuoTest.Page.WelcomePage 44 enterHomePageQuXiao - 准备进入HomePage
+2015-08-16 at 17:56:20 CST INFO  com.boc.binfengshenghuoTest.Page.HomePage 20 <init> - 初始化HomePage元素成功
+2015-08-16 at 17:56:20 CST INFO  com.boc.android.AndroidDriverApi 94 findElementByName - 找到控件：账单
+2015-08-16 at 18:36:28 CST INFO  com.boc.utils.ParseProperty 29 loadProperties - 加载    D:\eclipse workspace\ZhongYinYiShang\src\main\resources\config.properties成功
+2015-08-16 at 18:36:45 CST INFO  com.boc.android.AndroidDriverApi 46 <init> - appium server启动成功，url为：http://127.0.0.1:4723/wd/hub
+2015-08-16 at 18:36:45 CST INFO  com.boc.android.InitAndroidDriver 46 createDriver - 加载driver成功
+2015-08-16 at 18:36:45 CST INFO  com.boc.binfengshenghuoTest.Page.WelcomePage 26 <init> - 成功进入WelcomPage界面
+2015-08-16 at 18:36:48 CST INFO  com.boc.android.AndroidDriverApi 94 findElementByName - 找到控件：取消
+2015-08-16 at 18:36:52 CST INFO  com.boc.binfengshenghuoTest.Page.WelcomePage 44 enterHomePageQuXiao - 准备进入HomePage
+2015-08-16 at 18:36:52 CST INFO  com.boc.binfengshenghuoTest.Page.BinFengHomePage 48 <init> - 初始化HomePage元素成功
+2015-08-16 at 18:36:52 CST INFO  com.boc.android.AndroidDriverApi 94 findElementByName - 找到控件：账单
+2015-08-16 at 18:36:52 CST INFO  com.boc.android.AndroidDriverApi 94 findElementByName - 找到控件：账单
+2015-08-16 at 18:36:54 CST INFO  com.boc.binfengshenghuoTest.Page.BinFengHomePage 57 clickZhangdan - 准备进入ZhangDan类
+2015-08-16 at 18:36:54 CST INFO  com.boc.binfengshenghuoTest.Page.ZhangDan 22 <init> - 初始化ZhangDan类成功
+2015-08-16 at 18:36:54 CST INFO  com.boc.android.AndroidDriverApi 94 findElementByName - 找到控件：已出账单 
+2015-08-16 at 18:39:05 CST INFO  com.boc.utils.ParseProperty 29 loadProperties - 加载    D:\eclipse workspace\ZhongYinYiShang\src\main\resources\config.properties成功
+2015-08-16 at 18:39:22 CST INFO  com.boc.android.AndroidDriverApi 46 <init> - appium server启动成功，url为：http://127.0.0.1:4723/wd/hub
+2015-08-16 at 18:39:22 CST INFO  com.boc.android.InitAndroidDriver 46 createDriver - 加载driver成功
+2015-08-16 at 18:39:22 CST INFO  com.boc.binfengshenghuoTest.Page.WelcomePage 26 <init> - 成功进入WelcomPage界面
+2015-08-16 at 18:39:26 CST INFO  com.boc.android.AndroidDriverApi 94 findElementByName - 找到控件：取消
+2015-08-16 at 18:39:30 CST INFO  com.boc.binfengshenghuoTest.Page.WelcomePage 44 enterHomePageQuXiao - 准备进入HomePage
+2015-08-16 at 18:39:30 CST INFO  com.boc.binfengshenghuoTest.Page.BinFengHomePage 48 <init> - 初始化HomePage元素成功
+2015-08-16 at 18:39:30 CST INFO  com.boc.android.AndroidDriverApi 94 findElementByName - 找到控件：账单
+2015-08-16 at 18:39:30 CST INFO  com.boc.android.AndroidDriverApi 94 findElementByName - 找到控件：账单
+2015-08-16 at 18:39:31 CST INFO  com.boc.binfengshenghuoTest.Page.BinFengHomePage 57 clickZhangdan - 准备进入ZhangDan类
+2015-08-16 at 18:39:31 CST INFO  com.boc.binfengshenghuoTest.Page.ZhangDan 22 <init> - 初始化ZhangDan类成功
+2015-08-16 at 18:39:32 CST INFO  com.boc.android.AndroidDriverApi 94 findElementByName - 找到控件：已出账单 
+2015-08-16 at 18:40:41 CST INFO  com.boc.utils.ParseProperty 29 loadProperties - 加载    D:\eclipse workspace\ZhongYinYiShang\src\main\resources\config.properties成功
+2015-08-16 at 18:40:56 CST INFO  com.boc.android.AndroidDriverApi 46 <init> - appium server启动成功，url为：http://127.0.0.1:4723/wd/hub
+2015-08-16 at 18:40:56 CST INFO  com.boc.android.InitAndroidDriver 46 createDriver - 加载driver成功
+2015-08-16 at 18:40:56 CST INFO  com.boc.binfengshenghuoTest.Page.WelcomePage 26 <init> - 成功进入WelcomPage界面
+2015-08-16 at 18:41:00 CST INFO  com.boc.android.AndroidDriverApi 94 findElementByName - 找到控件：取消
+2015-08-16 at 18:41:04 CST INFO  com.boc.binfengshenghuoTest.Page.WelcomePage 44 enterHomePageQuXiao - 准备进入HomePage
+2015-08-16 at 18:41:04 CST INFO  com.boc.binfengshenghuoTest.Page.BinFengHomePage 48 <init> - 初始化HomePage元素成功
+2015-08-16 at 18:41:04 CST INFO  com.boc.android.AndroidDriverApi 94 findElementByName - 找到控件：账单
+2015-08-16 at 18:41:04 CST INFO  com.boc.android.AndroidDriverApi 94 findElementByName - 找到控件：账单
+2015-08-16 at 18:41:05 CST INFO  com.boc.binfengshenghuoTest.Page.BinFengHomePage 57 clickZhangdan - 准备进入ZhangDan类
+2015-08-16 at 18:41:05 CST INFO  com.boc.binfengshenghuoTest.Page.ZhangDan 22 <init> - 初始化ZhangDan类成功
+2015-08-16 at 18:41:07 CST INFO  com.boc.android.AndroidDriverApi 94 findElementByName - 找到控件：已出账单 
+2015-08-16 at 18:41:38 CST INFO  com.boc.utils.ParseProperty 29 loadProperties - 加载    D:\eclipse workspace\ZhongYinYiShang\src\main\resources\config.properties成功
+2015-08-16 at 18:41:53 CST INFO  com.boc.android.AndroidDriverApi 46 <init> - appium server启动成功，url为：http://127.0.0.1:4723/wd/hub
+2015-08-16 at 18:41:53 CST INFO  com.boc.android.InitAndroidDriver 46 createDriver - 加载driver成功
+2015-08-16 at 18:41:53 CST INFO  com.boc.binfengshenghuoTest.Page.WelcomePage 26 <init> - 成功进入WelcomPage界面
+2015-08-16 at 18:41:56 CST INFO  com.boc.android.AndroidDriverApi 94 findElementByName - 找到控件：取消
+2015-08-16 at 18:42:02 CST INFO  com.boc.binfengshenghuoTest.Page.WelcomePage 44 enterHomePageQuXiao - 准备进入HomePage
+2015-08-16 at 18:42:02 CST INFO  com.boc.binfengshenghuoTest.Page.BinFengHomePage 48 <init> - 初始化HomePage元素成功
+2015-08-16 at 18:42:02 CST INFO  com.boc.android.AndroidDriverApi 94 findElementByName - 找到控件：账单
+2015-08-16 at 18:42:03 CST INFO  com.boc.android.AndroidDriverApi 94 findElementByName - 找到控件：账单
+2015-08-16 at 18:42:03 CST INFO  com.boc.binfengshenghuoTest.Page.BinFengHomePage 57 clickZhangdan - 准备进入ZhangDan类
+2015-08-16 at 18:42:03 CST INFO  com.boc.binfengshenghuoTest.Page.ZhangDan 22 <init> - 初始化ZhangDan类成功
+2015-08-16 at 18:42:04 CST INFO  com.boc.android.AndroidDriverApi 94 findElementByName - 找到控件：已出账单 
+2015-08-16 at 18:44:40 CST INFO  com.boc.utils.ParseProperty 29 loadProperties - 加载    D:\eclipse workspace\ZhongYinYiShang\src\main\resources\config.properties成功
+2015-08-16 at 18:44:54 CST INFO  com.boc.android.AndroidDriverApi 46 <init> - appium server启动成功，url为：http://127.0.0.1:4723/wd/hub
+2015-08-16 at 18:44:54 CST INFO  com.boc.android.InitAndroidDriver 46 createDriver - 加载driver成功
+2015-08-16 at 18:44:54 CST INFO  com.boc.binfengshenghuoTest.Page.WelcomePage 26 <init> - 成功进入WelcomPage界面
+2015-08-16 at 18:44:57 CST INFO  com.boc.android.AndroidDriverApi 94 findElementByName - 找到控件：取消
+2015-08-16 at 18:45:01 CST INFO  com.boc.binfengshenghuoTest.Page.WelcomePage 44 enterHomePageQuXiao - 准备进入HomePage
+2015-08-16 at 18:45:01 CST INFO  com.boc.binfengshenghuoTest.Page.BinFengHomePage 48 <init> - 初始化HomePage元素成功
+2015-08-16 at 18:45:01 CST INFO  com.boc.android.AndroidDriverApi 94 findElementByName - 找到控件：账单
+2015-08-16 at 18:45:03 CST INFO  com.boc.android.AndroidDriverApi 94 findElementByName - 找到控件：账单
+2015-08-16 at 18:45:03 CST INFO  com.boc.binfengshenghuoTest.Page.BinFengHomePage 57 clickZhangdan - 准备进入ZhangDan类
+2015-08-16 at 18:45:03 CST INFO  com.boc.binfengshenghuoTest.Page.ZhangDan 22 <init> - 初始化ZhangDan类成功
+2015-08-16 at 18:45:04 CST INFO  com.boc.android.AndroidDriverApi 94 findElementByName - 找到控件：未出账单
+2015-08-16 at 18:48:13 CST INFO  com.boc.utils.ParseProperty 29 loadProperties - 加载    D:\eclipse workspace\ZhongYinYiShang\src\main\resources\config.properties成功
+2015-08-16 at 18:48:28 CST INFO  com.boc.android.AndroidDriverApi 46 <init> - appium server启动成功，url为：http://127.0.0.1:4723/wd/hub
+2015-08-16 at 18:48:28 CST INFO  com.boc.android.InitAndroidDriver 46 createDriver - 加载driver成功
+2015-08-16 at 18:48:28 CST INFO  com.boc.binfengshenghuoTest.Page.WelcomePage 26 <init> - 成功进入WelcomPage界面
+2015-08-16 at 18:48:32 CST INFO  com.boc.android.AndroidDriverApi 94 findElementByName - 找到控件：取消
+2015-08-16 at 18:48:36 CST INFO  com.boc.binfengshenghuoTest.Page.WelcomePage 44 enterHomePageQuXiao - 准备进入HomePage
+2015-08-16 at 18:48:36 CST INFO  com.boc.binfengshenghuoTest.Page.BinFengHomePage 48 <init> - 初始化HomePage元素成功
+2015-08-16 at 18:48:36 CST INFO  com.boc.android.AndroidDriverApi 94 findElementByName - 找到控件：账单
+2015-08-16 at 18:48:36 CST INFO  com.boc.android.AndroidDriverApi 94 findElementByName - 找到控件：账单
+2015-08-16 at 18:48:36 CST INFO  com.boc.binfengshenghuoTest.Page.BinFengHomePage 57 clickZhangdan - 准备进入ZhangDan类
+2015-08-16 at 18:48:36 CST INFO  com.boc.binfengshenghuoTest.Page.ZhangDan 22 <init> - 初始化ZhangDan类成功
+2015-08-16 at 18:48:38 CST INFO  com.boc.android.AndroidDriverApi 94 findElementByName - 找到控件：未出账单
+2015-08-16 at 19:18:03 CST INFO  com.boc.utils.ParseProperty 29 loadProperties - 加载    D:\eclipse workspace\ZhongYinYiShang\src\main\resources\config.properties成功
+2015-08-16 at 19:18:19 CST INFO  com.boc.android.AndroidDriverApi 46 <init> - appium server启动成功，url为：http://127.0.0.1:4723/wd/hub
+2015-08-16 at 19:18:19 CST INFO  com.boc.android.InitAndroidDriver 46 createDriver - 加载driver成功
+2015-08-16 at 19:18:19 CST INFO  com.boc.binfengshenghuoTest.Page.WelcomePage 26 <init> - 成功进入WelcomPage界面
+2015-08-16 at 19:18:22 CST INFO  com.boc.android.AndroidDriverApi 94 findElementByName - 找到控件：取消
+2015-08-16 at 19:18:26 CST INFO  com.boc.binfengshenghuoTest.Page.WelcomePage 44 enterHomePageQuXiao - 准备进入HomePage
+2015-08-16 at 19:18:26 CST INFO  com.boc.binfengshenghuoTest.Page.BinFengHomePage 48 <init> - 初始化HomePage元素成功
+2015-08-16 at 19:18:26 CST INFO  com.boc.android.AndroidDriverApi 94 findElementByName - 找到控件：账单
+2015-08-16 at 19:18:27 CST INFO  com.boc.android.AndroidDriverApi 94 findElementByName - 找到控件：账单
+2015-08-16 at 19:18:28 CST INFO  com.boc.binfengshenghuoTest.Page.BinFengHomePage 57 clickZhangdan - 准备进入ZhangDan类
+2015-08-16 at 19:18:28 CST INFO  com.boc.binfengshenghuoTest.Page.ZhangDan 24 <init> - 初始化ZhangDan类成功
+2015-08-16 at 19:18:28 CST INFO  com.boc.android.AndroidDriverApi 94 findElementByName - 找到控件：未出账单
+2015-08-16 at 19:23:12 CST INFO  com.boc.utils.ParseProperty 29 loadProperties - 加载    D:\eclipse workspace\ZhongYinYiShang\src\main\resources\config.properties成功
+2015-08-16 at 19:23:27 CST INFO  com.boc.android.AndroidDriverApi 46 <init> - appium server启动成功，url为：http://127.0.0.1:4723/wd/hub
+2015-08-16 at 19:23:27 CST INFO  com.boc.android.InitAndroidDriver 46 createDriver - 加载driver成功
+2015-08-16 at 19:23:27 CST INFO  com.boc.binfengshenghuoTest.Page.WelcomePage 26 <init> - 成功进入WelcomPage界面
+2015-08-16 at 19:23:30 CST INFO  com.boc.android.AndroidDriverApi 94 findElementByName - 找到控件：取消
+2015-08-16 at 19:23:36 CST INFO  com.boc.binfengshenghuoTest.Page.WelcomePage 44 enterHomePageQuXiao - 准备进入HomePage
+2015-08-16 at 19:23:36 CST INFO  com.boc.binfengshenghuoTest.Page.BinFengHomePage 48 <init> - 初始化HomePage元素成功
+2015-08-16 at 19:23:36 CST INFO  com.boc.android.AndroidDriverApi 94 findElementByName - 找到控件：金融服务
+2015-08-16 at 19:23:37 CST INFO  com.boc.binfengshenghuoTest.Page.BinFengHomePage 64 clickJinrongFuwu - 准备进入JinRongFuWu类
+2015-08-16 at 19:23:37 CST INFO  com.boc.binfengshenghuoTest.Page.JinRongFuWu 17 <init> - 加载JinRongFuWu类成功
+2015-08-16 at 19:24:58 CST INFO  com.boc.utils.ParseProperty 29 loadProperties - 加载    D:\eclipse workspace\ZhongYinYiShang\src\main\resources\config.properties成功
+2015-08-16 at 19:25:13 CST INFO  com.boc.android.AndroidDriverApi 46 <init> - appium server启动成功，url为：http://127.0.0.1:4723/wd/hub
+2015-08-16 at 19:25:13 CST INFO  com.boc.android.InitAndroidDriver 46 createDriver - 加载driver成功
+2015-08-16 at 19:25:13 CST INFO  com.boc.binfengshenghuoTest.Page.WelcomePage 26 <init> - 成功进入WelcomPage界面
+2015-08-16 at 19:25:18 CST INFO  com.boc.android.AndroidDriverApi 94 findElementByName - 找到控件：取消
+2015-08-16 at 19:25:21 CST INFO  com.boc.binfengshenghuoTest.Page.WelcomePage 44 enterHomePageQuXiao - 准备进入HomePage
+2015-08-16 at 19:25:21 CST INFO  com.boc.binfengshenghuoTest.Page.BinFengHomePage 48 <init> - 初始化HomePage元素成功
+2015-08-16 at 19:25:21 CST INFO  com.boc.android.AndroidDriverApi 94 findElementByName - 找到控件：金融服务
+2015-08-16 at 19:25:23 CST INFO  com.boc.binfengshenghuoTest.Page.BinFengHomePage 64 clickJinrongFuwu - 准备进入JinRongFuWu类
+2015-08-16 at 19:25:23 CST INFO  com.boc.binfengshenghuoTest.Page.JinRongFuWu 19 <init> - 加载JinRongFuWu类成功
+2015-08-16 at 19:27:42 CST INFO  com.boc.utils.ParseProperty 29 loadProperties - 加载    D:\eclipse workspace\ZhongYinYiShang\src\main\resources\config.properties成功
+2015-08-16 at 19:27:57 CST INFO  com.boc.android.AndroidDriverApi 46 <init> - appium server启动成功，url为：http://127.0.0.1:4723/wd/hub
+2015-08-16 at 19:27:57 CST INFO  com.boc.android.InitAndroidDriver 46 createDriver - 加载driver成功
+2015-08-16 at 19:27:57 CST INFO  com.boc.binfengshenghuoTest.Page.WelcomePage 26 <init> - 成功进入WelcomPage界面
+2015-08-16 at 19:28:00 CST INFO  com.boc.android.AndroidDriverApi 94 findElementByName - 找到控件：取消
+2015-08-16 at 19:28:04 CST INFO  com.boc.binfengshenghuoTest.Page.WelcomePage 44 enterHomePageQuXiao - 准备进入HomePage
+2015-08-16 at 19:28:04 CST INFO  com.boc.binfengshenghuoTest.Page.BinFengHomePage 48 <init> - 初始化HomePage元素成功
+2015-08-16 at 19:28:04 CST INFO  com.boc.android.AndroidDriverApi 94 findElementByName - 找到控件：金融服务
+2015-08-16 at 19:28:06 CST INFO  com.boc.binfengshenghuoTest.Page.BinFengHomePage 64 clickJinrongFuwu - 准备进入JinRongFuWu类
+2015-08-16 at 19:28:06 CST INFO  com.boc.binfengshenghuoTest.Page.JinRongFuWu 19 <init> - 加载JinRongFuWu类成功
+2015-08-16 at 19:30:08 CST INFO  com.boc.utils.ParseProperty 29 loadProperties - 加载    D:\eclipse workspace\ZhongYinYiShang\src\main\resources\config.properties成功
+2015-08-16 at 19:30:23 CST INFO  com.boc.android.AndroidDriverApi 46 <init> - appium server启动成功，url为：http://127.0.0.1:4723/wd/hub
+2015-08-16 at 19:30:23 CST INFO  com.boc.android.InitAndroidDriver 46 createDriver - 加载driver成功
+2015-08-16 at 19:30:23 CST INFO  com.boc.binfengshenghuoTest.Page.WelcomePage 26 <init> - 成功进入WelcomPage界面
+2015-08-16 at 19:30:27 CST INFO  com.boc.android.AndroidDriverApi 94 findElementByName - 找到控件：取消
+2015-08-16 at 19:30:30 CST INFO  com.boc.binfengshenghuoTest.Page.WelcomePage 44 enterHomePageQuXiao - 准备进入HomePage
+2015-08-16 at 19:30:30 CST INFO  com.boc.binfengshenghuoTest.Page.BinFengHomePage 48 <init> - 初始化HomePage元素成功
+2015-08-16 at 19:30:31 CST INFO  com.boc.android.AndroidDriverApi 94 findElementByName - 找到控件：金融服务
+2015-08-16 at 19:30:32 CST INFO  com.boc.binfengshenghuoTest.Page.BinFengHomePage 64 clickJinrongFuwu - 准备进入JinRongFuWu类
+2015-08-16 at 19:30:32 CST INFO  com.boc.binfengshenghuoTest.Page.JinRongFuWu 19 <init> - 加载JinRongFuWu类成功
+2015-08-16 at 19:33:35 CST INFO  com.boc.utils.ParseProperty 29 loadProperties - 加载    D:\eclipse workspace\ZhongYinYiShang\src\main\resources\config.properties成功
+2015-08-16 at 19:33:50 CST INFO  com.boc.android.AndroidDriverApi 46 <init> - appium server启动成功，url为：http://127.0.0.1:4723/wd/hub
+2015-08-16 at 19:33:50 CST INFO  com.boc.android.InitAndroidDriver 46 createDriver - 加载driver成功
+2015-08-16 at 19:33:50 CST INFO  com.boc.binfengshenghuoTest.Page.WelcomePage 26 <init> - 成功进入WelcomPage界面
+2015-08-16 at 19:33:52 CST INFO  com.boc.android.AndroidDriverApi 94 findElementByName - 找到控件：取消
+2015-08-16 at 19:33:56 CST INFO  com.boc.binfengshenghuoTest.Page.WelcomePage 44 enterHomePageQuXiao - 准备进入HomePage
+2015-08-16 at 19:33:56 CST INFO  com.boc.binfengshenghuoTest.Page.BinFengHomePage 48 <init> - 初始化HomePage元素成功
+2015-08-16 at 19:33:56 CST INFO  com.boc.android.AndroidDriverApi 94 findElementByName - 找到控件：金融服务
+2015-08-16 at 19:33:56 CST INFO  com.boc.binfengshenghuoTest.Page.BinFengHomePage 64 clickJinrongFuwu - 准备进入JinRongFuWu类
+2015-08-16 at 19:33:56 CST INFO  com.boc.binfengshenghuoTest.Page.JinRongFuWu 19 <init> - 加载JinRongFuWu类成功
+2015-08-16 at 19:34:57 CST INFO  com.boc.utils.ParseProperty 29 loadProperties - 加载    D:\eclipse workspace\ZhongYinYiShang\src\main\resources\config.properties成功
+2015-08-16 at 19:35:12 CST INFO  com.boc.android.AndroidDriverApi 46 <init> - appium server启动成功，url为：http://127.0.0.1:4723/wd/hub
+2015-08-16 at 19:35:12 CST INFO  com.boc.android.InitAndroidDriver 46 createDriver - 加载driver成功
+2015-08-16 at 19:35:12 CST INFO  com.boc.binfengshenghuoTest.Page.WelcomePage 26 <init> - 成功进入WelcomPage界面
+2015-08-16 at 19:35:15 CST INFO  com.boc.android.AndroidDriverApi 94 findElementByName - 找到控件：取消
+2015-08-16 at 19:35:18 CST INFO  com.boc.binfengshenghuoTest.Page.WelcomePage 44 enterHomePageQuXiao - 准备进入HomePage
+2015-08-16 at 19:35:18 CST INFO  com.boc.binfengshenghuoTest.Page.BinFengHomePage 48 <init> - 初始化HomePage元素成功
+2015-08-16 at 19:35:18 CST INFO  com.boc.android.AndroidDriverApi 94 findElementByName - 找到控件：金融服务
+2015-08-16 at 19:35:19 CST INFO  com.boc.binfengshenghuoTest.Page.BinFengHomePage 64 clickJinrongFuwu - 准备进入JinRongFuWu类
+2015-08-16 at 19:35:19 CST INFO  com.boc.binfengshenghuoTest.Page.JinRongFuWu 19 <init> - 加载JinRongFuWu类成功
+2015-08-16 at 19:35:41 CST INFO  com.boc.android.AndroidDriverApi 94 findElementByName - 找到控件：二维码优惠
+2015-08-16 at 19:38:03 CST INFO  com.boc.utils.ParseProperty 29 loadProperties - 加载    D:\eclipse workspace\ZhongYinYiShang\src\main\resources\config.properties成功
+2015-08-16 at 19:38:19 CST INFO  com.boc.android.AndroidDriverApi 46 <init> - appium server启动成功，url为：http://127.0.0.1:4723/wd/hub
+2015-08-16 at 19:38:19 CST INFO  com.boc.android.InitAndroidDriver 46 createDriver - 加载driver成功
+2015-08-16 at 19:38:20 CST INFO  com.boc.binfengshenghuoTest.Page.WelcomePage 26 <init> - 成功进入WelcomPage界面
+2015-08-16 at 19:38:24 CST INFO  com.boc.android.AndroidDriverApi 94 findElementByName - 找到控件：取消
+2015-08-16 at 19:38:27 CST INFO  com.boc.binfengshenghuoTest.Page.WelcomePage 44 enterHomePageQuXiao - 准备进入HomePage
+2015-08-16 at 19:38:27 CST INFO  com.boc.binfengshenghuoTest.Page.BinFengHomePage 48 <init> - 初始化HomePage元素成功
+2015-08-16 at 19:38:28 CST INFO  com.boc.android.AndroidDriverApi 94 findElementByName - 找到控件：金融服务
+2015-08-16 at 19:38:28 CST INFO  com.boc.binfengshenghuoTest.Page.BinFengHomePage 64 clickJinrongFuwu - 准备进入JinRongFuWu类
+2015-08-16 at 19:38:28 CST INFO  com.boc.binfengshenghuoTest.Page.JinRongFuWu 19 <init> - 加载JinRongFuWu类成功
+2015-08-16 at 19:38:50 CST INFO  com.boc.android.AndroidDriverApi 94 findElementByName - 找到控件：二维码优惠
+2015-08-16 at 19:38:50 CST INFO  com.boc.binfengshenghuoTest.Page.JinRongFuWu 26 geterweimayouhuiValue - 获取到元素值二维码优惠
+2015-08-16 at 19:38:50 CST INFO  com.boc.android.AndroidDriverApi 94 findElementByName - 找到控件：二维码优惠
+2015-08-19 at 09:33:27 CST INFO  com.boc.utils.ParseProperty 29 loadProperties - 加载    D:\eclipse workspace\ZhongYinYiShang\src\main\resources\config.properties成功
+2015-08-19 at 09:33:46 CST INFO  com.boc.android.AndroidDriverApi 46 <init> - appium server启动成功，url为：http://127.0.0.1:4723/wd/hub
+2015-08-19 at 09:33:46 CST INFO  com.boc.android.InitAndroidDriver 46 createDriver - 加载driver成功
+2015-08-19 at 09:33:46 CST INFO  com.boc.binfengshenghuoTest.Page.WelcomePage 26 <init> - 成功进入WelcomPage界面
+2015-08-19 at 09:33:49 CST INFO  com.boc.android.AndroidDriverApi 94 findElementByName - 找到控件：取消
+2015-08-19 at 09:33:52 CST INFO  com.boc.binfengshenghuoTest.Page.WelcomePage 44 enterHomePageQuXiao - 准备进入HomePage
+2015-08-19 at 09:33:52 CST INFO  com.boc.binfengshenghuoTest.Page.BinFengHomePage 48 <init> - 初始化HomePage元素成功
+2015-08-19 at 09:33:54 CST INFO  com.boc.android.AndroidDriverApi 94 findElementByName - 找到控件：金融服务
+2015-08-19 at 09:33:55 CST INFO  com.boc.binfengshenghuoTest.Page.BinFengHomePage 64 clickJinrongFuwu - 准备进入JinRongFuWu类
+2015-08-19 at 09:33:55 CST INFO  com.boc.binfengshenghuoTest.Page.JinRongFuWu 19 <init> - 加载JinRongFuWu类成功
+2015-08-19 at 09:34:11 CST INFO  com.boc.android.AndroidDriverApi 94 findElementByName - 找到控件：二维码优惠
+2015-08-19 at 09:34:11 CST INFO  com.boc.binfengshenghuoTest.Page.JinRongFuWu 26 geterweimayouhuiValue - 获取到元素值二维码优惠
+2015-08-19 at 09:34:11 CST INFO  com.boc.android.AndroidDriverApi 94 findElementByName - 找到控件：二维码优惠
+2015-08-26 at 20:28:38 CST INFO  com.boc.utils.ParseProperty 29 loadProperties - 加载    D:\eclipse workspace\ZhongYinYiShang\src\main\resources\config.properties成功
+2015-08-26 at 20:29:12 CST INFO  com.boc.utils.ParseProperty 30 loadProperties - 加载    D:\eclipse workspace\ZhongYinYiShang\src\main\resources\config.properties成功

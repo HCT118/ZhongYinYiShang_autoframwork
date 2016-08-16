@@ -1,0 +1,72 @@
+package com.doc.test;
+
+import java.util.concurrent.TimeUnit;
+
+import org.testng.annotations.AfterClass;
+import org.testng.annotations.BeforeClass;
+import org.testng.annotations.Test;
+
+import com.boc.util.DaoHang;
+import com.boc.util.InitAndroidDriver;
+import com.boc.util.TakeScreen;
+
+import io.appium.java_client.MultiTouchAction;
+import io.appium.java_client.PerformsTouchActions;
+import io.appium.java_client.TouchAction;
+import io.appium.java_client.android.AndroidDriver;
+import io.appium.java_client.android.AndroidElement;
+import io.appium.java_client.android.AndroidKeyCode;
+
+public class DaoHangTest 
+{
+	public AndroidDriver<AndroidElement> driver;
+	public DaoHang dh;
+	public TakeScreen tk;
+	@BeforeClass
+	public void Home()
+	{
+		System.out.println("测试开始了");
+		dh=new DaoHang();
+		driver= DaoHang.driver;
+		
+	}
+	@Test
+	public void Daohang() throws Exception
+	{
+		dh.DaoHangJieMian();
+		AndroidElement yonghu=driver.findElementByAndroidUIAutomator("new UiSelector().textContains(\"易商用户名/手机号/邮箱\")");
+		yonghu.click();
+		yonghu.sendKeys("hct118");
+		AndroidElement mima = driver.findElementByAndroidUIAutomator("new UiSelector().resourceId(\"com.boc.bocop.container:id/et_password\")");
+		mima.click();
+		driver.tap(1, 54, 1150, 1);
+		driver.tap(1, 162, 1150, 1);
+		driver.tap(1, 270, 1150, 1);
+		driver.tap(1, 378, 1150, 1);
+		driver.tap(1, 486, 1150, 1);
+		driver.tap(1, 594, 1150, 1);
+		driver.tap(1, 702, 1150, 1);
+		driver.tap(1, 810, 1150, 1);
+		driver.tap(1, 918, 1150, 1);
+		driver.sendKeyEvent(AndroidKeyCode.BACK);
+		driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
+		
+		AndroidElement denglu = driver.findElementByAndroidUIAutomator("new UiSelector().textContains(\"登录\")");
+		denglu.click();
+		Thread.sleep(5000);
+		
+		TouchAction gesture1 = new TouchAction(driver);
+        gesture1.press(216, 804).waitAction(1000).moveTo(540, 804).release().perform();
+		gesture1.press(540, 804).waitAction(1000).moveTo(846, 804).release().perform();
+		gesture1.press(846, 804).waitAction(1000).moveTo(846, 1124).release().perform();
+		System.out.println("登录成功");
+		
+	}
+	@AfterClass
+	public void Close()
+	{
+		System.out.println("结束");
+		driver.quit();
+	}
+
+}
